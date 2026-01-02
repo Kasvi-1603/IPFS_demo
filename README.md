@@ -38,3 +38,10 @@ https://ipfs.io/ipfs/<CID>
 - Use the contract address with **“At Address”** in Remix.
 
 This project is for learning and demonstration purposes only.
+
+o	Network Name: Sepolia Test Network
+o	RPC URL: https://rpc.sepolia.org
+o	Chain ID: 11155111
+o	Currency Symbol: ETH
+o	Block Explorer: https://sepolia.etherscan.io
+
