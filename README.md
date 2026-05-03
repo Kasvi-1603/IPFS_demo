@@ -17,7 +17,9 @@ This repository contains a simple hands-on demo used in a skill lab workshop to 
 
 ## Live Contract Details
 - Network: Sepolia Testnet  
-- Contract Address: **ADD_CONTRACT_ADDRESS_HERE**
+- Contract Address: 0xfb4b70afd85fbe1c188330e870b31637c5bd2460
+
+
 
 ## Example CID
 - CID used in demo: bafkreidkjsbw4e6bcruhjd34r3aldlb5fj5hftdfd6m3lcvxbg53cjpnua
